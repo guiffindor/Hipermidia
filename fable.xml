@@ -41,13 +41,13 @@
 
         <agent 
       img="box.png" x="150" y="220" width="70" height="70" 
-            drop-zone="abrir" on-zone="_NEXT_PAGE" on-trigger="_NEXTPAGE">
+            drop-zone="abrir" on-zone="_NEXT_PAGE" on-trigger="_NEXT_PAGE">
         <abrir y="-500"/>
     </agent>
 
         <agent 
       img="key.png" x="340" y="270" width="20" height="25" 
-      draggable="true" on-drop="abrir" on-zone="abrir" 
+      draggable="true" on-drop="_NEXT_PAGE" on-zone="_NEXT_PAGE" 
       on-trigger="abrir">
     	
     </agent> 

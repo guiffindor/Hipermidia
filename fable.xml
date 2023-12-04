@@ -9,6 +9,7 @@
         <surgiu img="Miniatura - Zumbi de Sangue 2.png" x="10" y="300" width="50" height="80"
     </agent>
 
-    
+     <agent text="Clique no painel de controle para desbloquear a porta" x="20" y="440" font-size="18" color="white">
+    <agent/>
     </page>
 </fable>

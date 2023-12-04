@@ -15,7 +15,7 @@
     
   	<agent 
       img="Miniatura - Aniela Ukryty.png" x="215" y="350" width="70" height="90" 
-      draggable="true" on-drop="lived" on-zone="theend">
+      draggable="true" on-drop="quebrou" on-zone="theend">
     
       <after-dooropen y="100" /> 
     </agent> 

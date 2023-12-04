@@ -40,9 +40,17 @@
     </agent>
 
         <agent 
-      img="box.png" x="150" y="20" width="70" height="90" >
+      img="box.png" x="150" y="220" width="70" height="70" >
     
     </agent>
+
+        <agent 
+      img="key.png" x="20" y="150" width="40" height="35" 
+      draggable="true" on-drop="dooropen" on-zone="after-dooropen" 
+      on-trigger="after-dooropen">
+    	
+      <after-dooropen y="-200" />
+    </agent> 
         
         <agent 
       img="Miniatura - Ocultista F.png"

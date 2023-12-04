@@ -50,7 +50,6 @@
       draggable="true" on-drop="abrir" on-zone="abrir" 
       on-trigger="largou">
     	
-      <largou y="260" />
     </agent> 
         
         <agent 

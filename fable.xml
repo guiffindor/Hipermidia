@@ -1,9 +1,8 @@
 <fable>
     <page background="fundo.png"> 
-    <agent text="Há algo estranho naquela árvore, clique naquele homem, talvez ele saiba de algo" x="30" y="420" font-size="18" colowidth="350"
-     on-trigger="surgiu">
+    <agent text="Há algo estranho naquela árvore, clique naquele homem, talvez ele saiba de algo" x="30" y="420" font-size="18" color="white" width="350" on-trigger="surgiu">
         <surgiu text="O que é isso? Arraste a Aniela para a árvore e corra" color="white"/>
-        <agent/>
+    <agent/>
         
     <agent img="Miniatura - Aniela Ukryty.png" x="200" y="350" width="50" height="80" draggable="true" on-drop="quebrou" on-trigger="aberta">
     </agent>

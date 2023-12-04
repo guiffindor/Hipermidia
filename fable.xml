@@ -17,11 +17,12 @@
     </agent> 
   	<agent 
       img="Miniatura - Aniela Ukryty.png" x="215" y="350" width="70" height="90" 
-      draggable="true" on-drop="quebrou"> 
+      draggable="true" on-drop="quebrou">
+        <quebrou y="-200"/>
     </agent> 
     <agent 
       img="Miniatura - Jaime Orthuga.png" x="120" y="90" width="70" height="90" 
-      draggable="true" on-touch="surgiu">
+       on-touch="surgiu">
 
         <surgiu img="Miniatura - Zumbi de Sangue 2.png">
     </agent> 

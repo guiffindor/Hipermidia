@@ -24,7 +24,7 @@
       img="Miniatura - Jaime Orthuga.png" x="120" y="90" width="70" height="90" 
        on-touch="surgiu">
 
-        <surgiu img="Miniatura - Zumbi de Sangue 2.png">
+        <surgiu img="Miniatura - Zumbi de Sangue 2.png" />
     </agent> 
     
     <agent 
@@ -38,7 +38,6 @@
     
   </page>
 
-    <page background="Captura de tela 2023-12-04 143105.png">
-    
+    <page background="Miniatura - Bruna Sampaio.png">
     </page>
 </fable>

@@ -14,11 +14,12 @@
     <agent 
       img="IceBox.png" x="400" y="370" width="70" height="90"
         on-touch="quebrou"> 
+        <quebrou y="-500" \>
     </agent> 
   	<agent 
       img="Miniatura - Aniela Ukryty.png" x="215" y="350" width="70" height="90" 
       draggable="true" on-drop="quebrou" on-zone="_NEXT_PAGE" on-trigger="_NEXT_PAGE">
-        <quebrou y="-500"/>
+    
     </agent> 
     <agent 
       img="Miniatura - Jaime Orthuga.png" x="120" y="90" width="70" height="90" 

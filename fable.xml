@@ -46,7 +46,7 @@
     </agent>
 
         <agent 
-      img="key.png" x="320" y="-550" width="40" height="35" 
+      img="key.png" x="340" y="270" width="20" height="25" 
       draggable="true" on-drop="abrir" on-zone="abrir" 
       on-trigger="largou">
     	

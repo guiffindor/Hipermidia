@@ -3,7 +3,8 @@
       <agent img="Miniatura - Aniela Ukryty.png" x="200" y="350" width="50" height="80">
           
       </agent>
-        <agent img=>
+        <agent img= "Miniatura - Zumbi de Sangue 1.png" x="100" y="300" width="50" height="80">
+            
         </agent>
     </page>
 </fable>

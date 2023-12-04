@@ -34,14 +34,21 @@
         <agent img="Miniatura - Roberto Ghular Culto.png" x="250" y="320" width="50" height="80">
         </agent>
 
+''<agent 
+      text="Há uma barreira naquela árvore, clique no homem, talvez ele saiba de algo" 
+      x="20" y="430" font-size="18" color="white" 
+      width="300" on-trigger="surgiu">
+      
+    	<surgiu text="O que é isso? Arraste a Aniela e quebre o gelo na árvore!" />
+    </agent>
+        
         <agent 
       img="Miniatura - Aniela Ukryty.png" x="50" y="20" width="70" height="90" >
-    
-    </agent>
+        </agent>
 
         <agent 
       img="box.png" x="150" y="220" width="70" height="70" 
-            drop-zone="abrir" on-zone="_NEXT_PAGE" on-trigger="_NEXT_PAGE">
+            drop-zone="abrir">
         <abrir y="-500"/>
     </agent>
 

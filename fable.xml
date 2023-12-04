@@ -19,7 +19,7 @@
       img="Miniatura - Jaime Orthuga.png" x="120" y="90" width="70" height="90" 
       draggable="true" on-touch="surgiu">
 
-        <surgiu img=
+        <surgiu img="Miniatura - Zumbi de Sangue 2.png">
     </agent> 
     <agent 
       img="textura.png" x="415" y="350" width="70" height="75" 

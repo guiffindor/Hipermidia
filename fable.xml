@@ -8,7 +8,7 @@
       x="20" y="430" font-size="18" color="white" 
       width="300" on-trigger="surgiu">
       
-    	<surgiu text="O que é isso? Arraste a Aniela para o buraco na árvore!" />
+    	<surgiu text="O que é isso? Arraste a Aniela e quebre o gelo na árvore!" />
     </agent>
 
     <agent 

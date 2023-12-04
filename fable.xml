@@ -54,7 +54,7 @@
         
         <agent 
       img="Miniatura - Ocultista F.png"
-        x="320" y="260" width="70" height="90" draggable="true" on-drop="largou" on-zone="largou" on-trigger="largou">
+        x="320" y="260" width="70" height="90" draggable="true" on-drop="largou">
     
     </agent>
     </page>

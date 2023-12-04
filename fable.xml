@@ -24,6 +24,8 @@
     	
       <chestopen y="-200" />
     </agent>
+    <agent
+        img
     
     <agent 
       img="key.png" x="20" y="150" width="40" height="35" 

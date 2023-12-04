@@ -4,7 +4,7 @@
 	<page background="fundo.png">
 
     <agent 
-      text="Há algo estranho naquela árvore, clique no homem, talvez ele saiba de algo" 
+      text="Há uma barreira naquela árvore, clique no homem, talvez ele saiba de algo" 
       x="20" y="430" font-size="18" color="white" 
       width="300" on-trigger="surgiu">
       
@@ -12,7 +12,7 @@
     </agent>
 
     <agent 
-      img="textura.png" x="400" y="370" width="70" height="90" 
+      img="IceBox.png" x="400" y="370" width="70" height="90" 
       drop-zone="quebrou"> 
     </agent> 
   	<agent 

@@ -4,7 +4,7 @@
           
       </agent>
         <agent on-touch="surgiu" img="Miniatura - Zumbi de Sangue 1.png" x="10" y="300" width="50" height="50">
-            
+            <surgiu img="Miniatura - Zumbi de Sangue 1.png"
         </agent>
     </page>
 </fable>

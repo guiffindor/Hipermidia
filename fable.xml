@@ -46,10 +46,10 @@
 
         <agent 
       img="key.png" x="320" y="-550" width="40" height="35" 
-      draggable="true" on-drop="dooropen" on-zone="after-dooropen" 
-      on-trigger="after-dooropen">
+      draggable="true" on-drop="dooropen" on-zone="largou" 
+      on-trigger="largou">
     	
-      <after-dooropen y="260" />
+      <largou y="260" />
     </agent> 
         
         <agent 

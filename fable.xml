@@ -1,7 +1,7 @@
 <fable>
     <page background="fundo.png">
         
-    <agent text="Há algo de errado com aquela árvore, talvez aquele homem possa ajudar" x="20" y="400" font-size="18" width="250" />
+    <agent text="Há algo de errado com aquela árvore, clique naquele homem, talvez ele possa ajudar" x="20" y="400" font-size="18" width="250" />
         
     <agent img="Miniatura - Aniela Ukryty.png" x="200" y="350" width="50" height="80" draggable="true" on-drop="quebrou" on-trigger="aberta">
     </agent>

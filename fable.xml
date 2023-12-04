@@ -40,7 +40,8 @@
     </agent>
 
         <agent 
-      img="box.png" x="150" y="220" width="70" height="70" on-drop="abrir" on-zone="_NEXT_PAGE" on-trigger="_NEXT_PAGE">
+      img="box.png" x="150" y="220" width="70" height="70" 
+            on-drop="abrir" on-zone="_NEXT_PAGE" on-trigger="_NEXT_PAGE">
         <abrir y="-500"/>
     </agent>
 

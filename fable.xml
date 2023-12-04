@@ -23,7 +23,7 @@
     </agent> 
     <agent 
       img="textura.png" x="415" y="350" width="70" height="75" 
-      height="125" drop-zone="chestopen">
+      height="125" drop-zone="quebrou">
     	
       <chestopen y="-200" />
     </agent>

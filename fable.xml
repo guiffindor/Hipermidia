@@ -3,7 +3,7 @@
       <agent img="Miniatura - Aniela Ukryty.png" x="200" y="350" width="50" height="80">
           
       </agent>
-        <agent on-touch img="Miniatura - Zumbi de Sangue 1.png" x="10" y="300" width="50" height="50">
+        <agent on-touch="surgiu" img="Miniatura - Zumbi de Sangue 1.png" x="10" y="300" width="50" height="50">
             
         </agent>
     </page>

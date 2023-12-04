@@ -13,7 +13,7 @@
 
     <agent 
       img="textura.png" x="400" y="370" width="70" height="90" 
-      draggable="true" on-drop="quebrou> 
+      drop-zone="_NEXT_PAGE"> 
     </agent> 
   	<agent 
       img="Miniatura - Aniela Ukryty.png" x="215" y="350" width="70" height="90" 

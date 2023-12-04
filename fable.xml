@@ -3,6 +3,6 @@
     <agent
     text="Há algo de errado com aquela árvore, clique naquele homem, talvez ele saiba algo a respeito" x="20" y="400" font-size="18" width="250" color="white" on-trigger="surgiu">
     <agent/>
-
+    
     </page>
 </fable>

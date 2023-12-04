@@ -45,11 +45,11 @@
     </agent>
 
         <agent 
-      img="key.png" x="20" y="150" width="40" height="35" 
+      img="key.png" x="320" y="-550" width="40" height="35" 
       draggable="true" on-drop="dooropen" on-zone="after-dooropen" 
       on-trigger="after-dooropen">
     	
-      <after-dooropen y="-200" />
+      <after-dooropen y="260" />
     </agent> 
         
         <agent 

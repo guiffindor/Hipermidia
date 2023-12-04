@@ -10,7 +10,11 @@
       
     	<surgiu text="O que é isso? Arraste a Aniela para o buraco na árvore!" />
     </agent>
-    
+
+    <agent 
+      img="Miniatura - Aniela Ukryty.png" x="115" y="350" width="70" height="90" 
+      draggable="true" on-drop="quebrou"> 
+    </agent> 
   	<agent 
       img="Miniatura - Aniela Ukryty.png" x="215" y="350" width="70" height="90" 
       draggable="true" on-drop="quebrou"> 
@@ -23,7 +27,7 @@
     </agent> 
     
     <agent 
-      img="Miniatura - Bruna Sampaio.png" x="20" y="150" width="40" height="35" 
+      img="Miniatura - Bruna Sampaio.png" x="20" y="150" width="80" height="85" 
       draggable="true" on-drop="chestopen" on-zone="after-chestopen" 
       on-trigger="after-chestopen">
     	

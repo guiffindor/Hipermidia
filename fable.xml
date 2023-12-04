@@ -10,15 +10,17 @@
       
     	<surgiu text="O que é isso? Arraste a Aniela para o buraco na árvore!" />
     </agent>
-  
-    <agent 
-        img="Miniatura - Jaime Orthuga.png" x="120" y="90" width="80" height="100"/>
     
   	<agent 
       img="Miniatura - Aniela Ukryty.png" x="215" y="350" width="70" height="90" 
       draggable="true" on-drop="quebrou"> 
     </agent> 
-    
+    <agent 
+      img="Miniatura - Jaime Orthuga.png" x="120" y="90" width="70" height="90" 
+      draggable="true" on-touch="surgiu">
+
+        <surgiu img=
+    </agent> 
     <agent 
       img="textura.png" x="415" y="350" width="70" height="75" 
       height="125" drop-zone="chestopen">

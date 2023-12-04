@@ -60,7 +60,7 @@
     </page>
 
     <page background="sanatorio.jpg">
-        <agent image=>
+        <agent img="Miniatura - Bruna Sampaio.png" x="50" y="50" width="70" height="80">
         </agent>
     </page>
 </fable>

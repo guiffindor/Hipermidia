@@ -59,5 +59,8 @@
     </agent>
     </page>
 
-    
+    <page background="sanatorio.jpg">
+        <agent image=>
+        </agent>
+    </page>
 </fable>

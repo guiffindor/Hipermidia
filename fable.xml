@@ -8,17 +8,8 @@
       x="20" y="430" font-size="18" color="white" 
       width="300" on-trigger="surgiu">
       
-    	<surgiun text="texto depois de abrir a porta" />
+    	<surgiu text="O que é isso? Arraste a Aniela para o buraco na árvore!" />
     </agent>
-      
-    <agent img="1.png" x="0" y="0" width="100" height="100" />
-    <agent img="2.png" x="100" y="0" width="100" height="100" />
-    <agent img="2.png" x="200" y="0" width="100" height="100" />
-    <agent img="2.png" x="300" y="0" width="100" height="100" />
-    <agent img="2.png" x="400" y="0" width="100" height="100" />     
-    
-    <agent img="box.png" x="10" y="100" width="50" height="50" />
-    <agent img="box.png" x="65" y="100" width="50" height="50" />
   
     <agent img="Idle (1).png" x="120" y="90" width="80" height="100" />
     

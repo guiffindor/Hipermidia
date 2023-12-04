@@ -11,7 +11,8 @@
     	<surgiu text="O que é isso? Arraste a Aniela para o buraco na árvore!" />
     </agent>
   
-    <agent img="a" x="120" y="90" width="80" height="100" />
+    <agent 
+        img="Miniatura - Jaime Orthuga.png" x="120" y="90" width="80" height="100" />
     
   	<agent 
       img="Miniatura - Aniela Ukryty.png" x="215" y="350" width="70" height="90" 

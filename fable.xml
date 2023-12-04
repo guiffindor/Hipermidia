@@ -46,7 +46,7 @@
 
         <agent 
       img="key.png" x="320" y="-550" width="40" height="35" 
-      draggable="true" on-drop="dooropen" on-zone="largou" 
+      draggable="true" on-drop="abrir" on-zone="abrir" 
       on-trigger="largou">
     	
       <largou y="260" />
@@ -58,4 +58,6 @@
     
     </agent>
     </page>
+
+    
 </fable>

@@ -31,7 +31,7 @@
   </page>
 
     <page background="Captura de tela 2023-12-04 143105.png">
-        <agent img="Miniatura - Roberto Ghular Culto.png" x="50" y="50" width="50" height="50">
+        <agent img="Miniatura - Roberto Ghular Culto.png" x="200" y="350" width="50" height="80">
 
         </agent>
     </page>

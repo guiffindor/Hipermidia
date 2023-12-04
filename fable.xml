@@ -26,19 +26,15 @@
 
         <surgiu img="Miniatura - Zumbi de Sangue 2.png" />
     </agent> 
-    
-    <agent 
-      img="Miniatura - Bruna Sampaio.png" x="20" y="150" width="80" height="85" 
-      draggable="true" on-drop="chestopen" on-zone="after-chestopen" 
-      on-trigger="after-chestopen">
-    	
-    </agent>   
-    
-    <agent img="IceBox.png" x="10" y="150" width="50" height="50" draggable="true">
+
         
-    </agent>
+
     
   </page>
 
+    <page background="Captura de tela 2023-12-04 143105.png">
+        <agent img="Miniatura - Roberto Ghular Culto.png" x="50" y="50" width="50" height="50">
 
+        </agent>
+    </page>
 </fable>

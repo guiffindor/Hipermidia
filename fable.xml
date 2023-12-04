@@ -1,7 +1,6 @@
 <fable>
     <page background="fundo.png"> 
-
-
+    <agent text="Há algo estranho naquela árvore, clique naquele homem, talvez ele saiba de algo" x="30" 
     <agent img="Miniatura - Aniela Ukryty.png" x="200" y="350" width="50" height="80" draggable="true" on-drop="quebrou" on-trigger="aberta">
     </agent>
 

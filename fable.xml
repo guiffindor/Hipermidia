@@ -6,7 +6,7 @@
     <agent img="Miniatura - Aniela Ukryty.png" x="200" y="350" width="50" height="80" draggable="true" on-drop="quebrou" on-trigger="aberta">
     </agent>
 
-    <agent img="textura.png"
+    <agent img="textura.png" x="400" y="350" width="80" height="80" drop-zone="aberta"
         
     <agent on-touch="surgiu" img="Miniatura - Jaime Orthuga.png" x="10" y="300" width="50" height="80">
         <surgiu img="Miniatura - Zumbi de Sangue 2.png" x="10" y="300" width="50" height="80"

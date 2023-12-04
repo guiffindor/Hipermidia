@@ -32,7 +32,12 @@
 
     <page background="Captura de tela 2023-12-04 143105.png">
         <agent img="Miniatura - Roberto Ghular Culto.png" x="250" y="320" width="50" height="80">
-
         </agent>
+
+        <agent 
+      img="Miniatura - Aniela Ukryty.png" x="50" y="50" width="70" height="90" 
+      draggable="true" on-drop="quebrou" on-zone="_NEXT_PAGE" on-trigger="_NEXT_PAGE">
+    
+    </agent>
     </page>
 </fable>

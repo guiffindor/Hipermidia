@@ -34,7 +34,7 @@
         <agent img="Miniatura - Roberto Ghular Culto.png" x="250" y="320" width="50" height="80">
         </agent>
 
-''<agent 
+    <agent 
       text="Há uma barreira naquela árvore, clique no homem, talvez ele saiba de algo" 
       x="20" y="430" font-size="18" color="white" 
       width="300" on-trigger="surgiu">

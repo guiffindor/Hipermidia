@@ -1,9 +1,7 @@
 <fable>
     <page background="fundo.png"> 
-            <agent text="Clique no painel de controle para desbloquear a porta" x="20" y="350" font-size="18" color="white">
-    <agent/>
 
-        
+
     <agent img="Miniatura - Aniela Ukryty.png" x="200" y="350" width="50" height="80" draggable="true" on-drop="quebrou" on-trigger="aberta">
     </agent>
 

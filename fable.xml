@@ -35,7 +35,7 @@
         </agent>
 
     <agent 
-      text="Há uma barreira naquela árvore, clique no homem, talvez ele saiba de algo" 
+      text="Talvez seja melhor" 
       x="20" y="430" font-size="18" color="white" 
       width="300" on-trigger="surgiu">
       

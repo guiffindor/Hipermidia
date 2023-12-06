@@ -35,7 +35,7 @@
         </agent>
 
     <agent 
-      text="Talvez seja melhor" 
+      text="Que lugar esquisito, essas pessoas parecem perigosas. Espera, tem uma chave " 
       x="20" y="430" font-size="18" color="white" 
       width="300" on-trigger="surgiu">
       

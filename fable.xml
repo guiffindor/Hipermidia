@@ -38,9 +38,7 @@
       text="Que lugar esquisito, essas pessoas parecem perigosas. Espera, tem uma chave com a mulher de capuz... Arraste para empurrá-la e use a chave para abrir o alçapão!" 
       x="20" y="370" font-size="18" color="white" 
       width="300" on-trigger="surgiu">
-      
-    	<surgiu text="O que é isso? Arraste a Aniela e quebre o gelo na árvore!" />
-    </agent>
+       </agent>
         
         <agent 
       img="Miniatura - Aniela Ukryty.png" x="50" y="10" width="70" height="90" >

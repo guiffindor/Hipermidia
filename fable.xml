@@ -35,7 +35,7 @@
         </agent>
 
     <agent 
-      text="Que lugar esquisito, essas pessoas parecem perigosas. Espera, tem uma chave " 
+      text="Que lugar esquisito, essas pessoas parecem perigosas. Espera, tem uma chave com a mulher de capuz... Arraste para empurrá-la e use a chave para abrir o alçapão!" 
       x="20" y="430" font-size="18" color="white" 
       width="300" on-trigger="surgiu">
       
@@ -43,7 +43,7 @@
     </agent>
         
         <agent 
-      img="Miniatura - Aniela Ukryty.png" x="50" y="20" width="70" height="90" >
+      img="Miniatura - Aniela Ukryty.png" x="80" y="20" width="70" height="90" >
         </agent>
 
         <agent 

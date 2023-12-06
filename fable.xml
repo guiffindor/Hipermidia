@@ -71,7 +71,7 @@
         </agent>
 
         <agent 
-      img="Miniatura - Aniela Ukryty.png" x="400" y="250" width="70" height="90" >
+      img="Miniatura - Aniela Ukryty.png" x="20" y="360" width="70" height="90" >
         </agent>
     </page>
 </fable>

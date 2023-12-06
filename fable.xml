@@ -67,7 +67,7 @@
     </page>
 
     <page background="sanatorio.jpg">
-        <agent img="Miniatura - Bruna Sampaio.png" x="50" y="50" width="70" height="80">
+        <agent img="Miniatura - Bruna Sampaio.png" x="70" y="360" width="70" height="80">
         </agent>
 
         <agent 

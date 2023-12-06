@@ -68,10 +68,14 @@
 
     <agent 
       text="Depois da queda você acorda completamente paralisada em uma cama de hospital com uma pessoa ao lado que diz 'bem-vinda, nova cobaia'. Parece que é o fim da linha para você" 
-      x="3700" y="20" font-size="18" color="white" 
+      x="20" y="20" font-size="18" color="white" 
       width="300">
       </agent>
-        
+    <agent 
+      text="Coming soon..." 
+      x="320" y="20" font-size="18" color="white" 
+      width="300">
+      </agent>
         <agent img="Miniatura - Bruna Sampaio.png" x="70" y="360" width="70" height="80">
         </agent>
 

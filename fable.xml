@@ -38,7 +38,7 @@
       text="Que lugar esquisito, essas pessoas parecem perigosas. Espera, tem uma chave com a mulher de capuz... Arraste para empurrá-la e use a chave para abrir o alçapão!" 
       x="20" y="370" font-size="18" color="white" 
       width="300" on-trigger="surgiu">
-       </agent>
+      </agent>
         
         <agent 
       img="Miniatura - Aniela Ukryty.png" x="50" y="10" width="70" height="90" >
@@ -65,6 +65,13 @@
     </page>
 
     <page background="sanatorio.jpg">
+
+    <agent 
+      text="Que lugar esquisito, essas pessoas parecem perigosas. Espera, tem uma chave com a mulher de capuz... Arraste para empurrá-la e use a chave para abrir o alçapão!" 
+      x="20" y="370" font-size="18" color="white" 
+      width="300">
+      </agent>
+        
         <agent img="Miniatura - Bruna Sampaio.png" x="70" y="360" width="70" height="80">
         </agent>
 

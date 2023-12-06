@@ -69,5 +69,9 @@
     <page background="sanatorio.jpg">
         <agent img="Miniatura - Bruna Sampaio.png" x="50" y="50" width="70" height="80">
         </agent>
+
+        <agent 
+      img="Miniatura - Aniela Ukryty.png" x="50" y="10" width="70" height="90" >
+        </agent>
     </page>
 </fable>

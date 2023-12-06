@@ -67,8 +67,8 @@
     <page background="sanatorio.jpg">
 
     <agent 
-      text="Depois da queda você acorda em uma cama de hospital com uma pessoa ao lado que diz 'bem-vinda ' " 
-      x="20" y="370" font-size="18" color="white" 
+      text="Depois da queda você acorda completamente paralisada em uma cama de hospital com uma pessoa ao lado que diz 'bem-vinda, nova cobaia'. Parece que é o fim da linha para você" 
+      x="3700" y="20" font-size="18" color="white" 
       width="300">
       </agent>
         
